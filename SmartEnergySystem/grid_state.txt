@@ -1,0 +1,5 @@
+Zona: A | Konsum: 50.0 | Prodhim: 0.0 | Bilanc: -50.0 | Prioritet: 5 | Aktiv: false | Backup: true
+Zona: B | Konsum: 40.0 | Prodhim: 0.0 | Bilanc: -40.0 | Prioritet: 2 | Aktiv: false | Backup: false
+Zona: C | Konsum: 70.0 | Prodhim: 0.0 | Bilanc: -70.0 | Prioritet: 3 | Aktiv: false | Backup: false
+Zona: D | Konsum: 90.0 | Prodhim: 0.0 | Bilanc: -90.0 | Prioritet: 4 | Aktiv: false | Backup: true
+Zona: E | Konsum: 30.0 | Prodhim: 0.0 | Bilanc: -30.0 | Prioritet: 1 | Aktiv: false | Backup: false
